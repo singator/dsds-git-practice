@@ -7,3 +7,6 @@ testing a new change
 
 version A
 "add code from student A" 
+hello!
+hello!
+
