@@ -1,14 +1,7 @@
 this is a dummy commit.
-
-
 Let's add more dummies.
-
 Setting Sun, Chemical brothers.
 Lady and Man, Khruangbin.
 It's What I Want to Do Mum, Mogwai.
-
-
 dummy local commit
-
 dummy origin commit
-
